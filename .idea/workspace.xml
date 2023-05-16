@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54abd93a-4afa-4286-84e0-777380ecb33d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Days_of_the_week V1.py" afterDir="false" />
+    <list default="true" id="54abd93a-4afa-4286-84e0-777380ecb33d" name="Changes" comment="Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_of_the_week V1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days_of_the_week V1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fluency_Checker V1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fluency_Checker V1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,33 @@
       <option name="presentableId" value="Default" />
       <updated>1683769940752</updated>
     </task>
+    <task id="LOCAL-00001" summary="DOW">
+      <created>1684107418466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684107418466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated">
+      <created>1684107510978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684107510978</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated">
+      <created>1684107553078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684107553078</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DOW" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>
