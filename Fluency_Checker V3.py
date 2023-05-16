@@ -21,5 +21,9 @@ def yes_no(question_text):
 
 
 # main route
-Fluency_Checkers = yes_no("Do you know the Maori names for days of the week? ")
+Fluency_Checker = yes_no("Do you know the Maori names for days of the week? ")
+if Fluency_Checker == "Yes":
+    print("This program will help you learn the Maori days of the week")
 
+if Fluency_Checker == "No":
+    print("This program is useless to you")

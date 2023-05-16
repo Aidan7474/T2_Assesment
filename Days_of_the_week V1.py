@@ -2,7 +2,7 @@
 import random
 
 print("This is a test of your knowledge on the Maori words for the days of the week\n"
-      " ā")
+      " Rā")
 
 # List days in English
 English_days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
