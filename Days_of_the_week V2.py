@@ -1,6 +1,7 @@
 # Days of the week Maori
 import random
-
+# Correct answers variable
+correct_answers = 0
 print("This is a test of your knowledge on the Maori words for the days of the week")
 
 # List days in English
@@ -12,12 +13,17 @@ Maori_days = ["Rahina", "Ratu", "Raapa", "Rapare", "Ramere", "Rahoroi", "Ratapu"
 question = random.choice(English_days)
 attempt = input(f"What is the Maori name for {question}: ")
 
+
 # Using the index position of the question in one list to find the corresponding index position of the answer
 Answer_index = English_days.index(question)
 answer = Maori_days[Answer_index]
 
 # Check if user answer correctly
 if attempt == answer:
+    correct_answers += 1
     print("CORRECT")
 else:
     print("INCORRECT")
+
+# score user
+print(f"Your score is {correct_answers}")

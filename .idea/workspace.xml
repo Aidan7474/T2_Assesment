@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54abd93a-4afa-4286-84e0-777380ecb33d" name="Changes" comment="Fluency checker V3">
+    <list default="true" id="54abd93a-4afa-4286-84e0-777380ecb33d" name="Changes" comment="Redacted macrons">
+      <change afterPath="$PROJECT_DIR$/Days_of_the_week V2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Days_of_the_week V1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days_of_the_week V1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fluency_Checker V3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fluency_Checker V3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684212506491</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fluency checker V3 if yes/if no">
+      <created>1684281476412</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684281476412</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Redacted macrons">
+      <created>1684281700638</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684281700638</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -95,6 +109,8 @@
     <MESSAGE value="Updated" />
     <MESSAGE value="Fluency checker V2" />
     <MESSAGE value="Fluency checker V3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fluency checker V3" />
+    <MESSAGE value="Fluency checker V3 if yes/if no" />
+    <MESSAGE value="Redacted macrons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redacted macrons" />
   </component>
 </project>
