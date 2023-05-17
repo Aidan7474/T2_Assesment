@@ -8,7 +8,7 @@ print("This is a test of your knowledge on the Maori words for the days of the w
 English_days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
 # List days in Maori
-Maori_days = ["Rāhina", "Rātu", "Rāapa", "Rāpare", "Rāmere", "Rāhoroi", "Rātapu"]
+Maori_days = ["Rahina", "Ratu", "Raapa", "Rapare", "Ramere", "Rahoroi", "Ratapu"]
 
 question = random.choice(English_days)
 attempt = input(f"What is the Maori name for {question}: ")
