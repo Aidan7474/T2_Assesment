@@ -26,4 +26,4 @@ if Fluency_Checker == "Yes":
     print("This program will help you learn the Maori days of the week")
 
 if Fluency_Checker == "No":
-    print("This program is useless to you")
+    print("This program wouldn't help you")
