@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54abd93a-4afa-4286-84e0-777380ecb33d" name="Changes" comment="Days_of_the_week V3.py">
-      <change afterPath="$PROJECT_DIR$/Final_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fluency_Checker V3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fluency_Checker V3.py" afterDir="false" />
+    <list default="true" id="54abd93a-4afa-4286-84e0-777380ecb33d" name="Changes" comment="Pasting to final version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684374572478</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Pasting to final version">
+      <created>1684375688291</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684375688291</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Pasting to final version">
+      <created>1684375704452</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684375704453</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +132,7 @@
     <MESSAGE value="Fluency checker V3 if yes/if no" />
     <MESSAGE value="Redacted macrons" />
     <MESSAGE value="Days_of_the_week V3.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Days_of_the_week V3.py" />
+    <MESSAGE value="Pasting to final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pasting to final version" />
   </component>
 </project>
