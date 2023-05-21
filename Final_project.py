@@ -2,6 +2,7 @@
 import random
 
 
+# Fluency checker
 # Functions
 def yes_no(question_text):
     while True:
@@ -36,6 +37,7 @@ if Fluency_Checker == "Yes":
     print("This program wouldn't help you\n"
           " ")
 
+# Days of the week
 # give variables values
 correct_answers = 0
 possible_questions = 0
@@ -63,6 +65,7 @@ while possible_questions < no_of_questions:
     Answer_index = English_days.index(question)
     answer = Maori_days[Answer_index]
 
+    # Calculate user score
     # Check if user answer correctly
     if attempt == answer:
         correct_answers += 1
