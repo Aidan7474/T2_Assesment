@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54abd93a-4afa-4286-84e0-777380ecb33d" name="Changes" comment="Final version">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final_project.py" afterDir="false" />
-    </list>
+    <list default="true" id="54abd93a-4afa-4286-84e0-777380ecb33d" name="Changes" comment="Final version edit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684473523729</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Final version edit">
+      <created>1684659886401</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684659886401</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,6 +145,7 @@
     <MESSAGE value="Days_of_the_week V3.py" />
     <MESSAGE value="Pasting to final version" />
     <MESSAGE value="Final version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final version" />
+    <MESSAGE value="Final version edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final version edit" />
   </component>
 </project>
